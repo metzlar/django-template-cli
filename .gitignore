@@ -1,4 +1,6 @@
 *.log
 *.pot
 *.pyc
+*~
+Django_Template_CLI.egg-info/*
 local_settings.py
